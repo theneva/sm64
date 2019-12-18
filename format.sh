@@ -1,3 +1,3 @@
 #!/bin/sh
 
-npx prettier --write index.html
+prettier --write index.html
